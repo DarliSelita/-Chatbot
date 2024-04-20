@@ -55,7 +55,7 @@
             "What support is offered"
           ],
           "responses": [
-            "I am a general purpose chatbot. My capabilities are : \n 1. I can chat with you. Try asking me for jokes or riddles! \n 2. Ask me the date and time \n 3. I can google search for you. Use format google: your query \n 4. I can get the present weather for any city. Use format weather: city name \n 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' \n 6. I can get you the top 10 trending songs globally. Type 'songs' \n 7. I can set a timer for you. Enter 'set a timer: minutes to timer' \n 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' \n For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! "
+            "I am a general purpose chatbot. My capabilities are : \n 1. I can chat with you. Try asking me for jokes or riddles! \n 2. Ask me the date and time \n 3. I can google search for you. Use format google: your query \n 4. I can get the present weather for any city. Use format weather: city name \n 5. I can get you the top 10 trending news. Use keywords 'Latest News' \n 6. I can get you the top 10 trending songs globally. Type 'songs' \n 7. I can set a timer for you. Enter 'set a timer: minutes to timer' \n 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' \n For suggestions to help me improve, send an email to me. Thank you!! "
           ],
           "context_set": ""
         },
@@ -88,7 +88,7 @@
             "what are you"
           ],
           "responses": [
-            "I am Ted, a Deep-Learning chatbot"
+            "I am Dean, a Deep-Learning chatbot"
           ],
           "context_set": ""
         },
@@ -302,7 +302,7 @@
             "what is your age"
           ],
           "responses": [
-            "I was made in 2020, if that's what you are asking!"
+            "I was made nShqipri m lal, if that's what you are asking!"
           ],
           "context_set": ""
         }
