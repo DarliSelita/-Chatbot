@@ -1,0 +1,1 @@
+You should first train the data (intents.json) using training.py and then run the chatbot.py file to talk to the chatbot. Hf :) !
