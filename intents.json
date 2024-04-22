@@ -4,25 +4,21 @@
     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
     "context_set": ""
   },
-
   {"tag": "goodbye",
     "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
     "context_set": ""
   },
-
   {"tag": "programming",
     "patterns": ["What is progamming?", "What is coding?", "Tell me about programming", "Tell me about coding", "What is software development?"],
     "responses": ["Programming, coding or software development, means writing computer code to automate tasks."],
     "context_set": ""
   },
-
   {"tag": "resource",
     "patterns": ["Where can I learn to code?", "Best way to learn to code", "How can I learn programming", "Good programming resources", "Can you recommend good coding resources?"],
     "responses": ["Everywhere, lol."],
     "context_set": ""
   },
-
       {
         "tag": "thanks",
         "patterns": [
@@ -39,10 +35,9 @@
         ],
         "context_set": ""
       },
-
       {
         "tag": "noanswer",
-        "patterns": [""],
+        "patterns": [],
         "responses": [
           "Sorry, can't understand you",
           "Please give me more info",
@@ -50,7 +45,6 @@
         ],
         "context_set": ""
       },
-
       {
         "tag": "options",
         "patterns": [
